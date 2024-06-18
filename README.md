@@ -8,4 +8,4 @@
   - Зеленые - Забайкальский край
 
 ### Annotation_table
-Таблица соответствия NCBI Accession и названия листа на древе
+Таблица соответствия NCBI Accession (Accession) и названия листа на древе (pablic_names)
